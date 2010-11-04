@@ -1,0 +1,147 @@
+{
+    "lower_chamber_title": "Representative", 
+    "lower_chamber_name": "House of Representatives", 
+    "upper_chamber_title": "Senator", 
+    "terms": [
+        {
+            "end_year": 1988, 
+            "start_year": 1987, 
+            "name": "1987-1988", 
+            "sessions": [
+                "1987-1988"
+            ]
+        }, 
+        {
+            "end_year": 1990, 
+            "start_year": 1989, 
+            "name": "1989-1990", 
+            "sessions": [
+                "1989-1990"
+            ]
+        }, 
+        {
+            "end_year": 1992, 
+            "start_year": 1991, 
+            "name": "1991-1992", 
+            "sessions": [
+                "1991-1992"
+            ]
+        }, 
+        {
+            "end_year": 1994, 
+            "start_year": 1993, 
+            "name": "1993-1994", 
+            "sessions": [
+                "1993-1994"
+            ]
+        }, 
+        {
+            "end_year": 1996, 
+            "start_year": 1995, 
+            "name": "1995-1996", 
+            "sessions": [
+                "1995-1996"
+            ]
+        }, 
+        {
+            "end_year": 1998, 
+            "start_year": 1997, 
+            "name": "1997-1998", 
+            "sessions": [
+                "1997-1998"
+            ]
+        }, 
+        {
+            "end_year": 2000, 
+            "start_year": 1999, 
+            "name": "1999-2000", 
+            "sessions": [
+                "1999-2000"
+            ]
+        }, 
+        {
+            "end_year": 2002, 
+            "start_year": 2001, 
+            "name": "2001-2002", 
+            "sessions": [
+                "2001-2002"
+            ]
+        }, 
+        {
+            "end_year": 2004, 
+            "start_year": 2003, 
+            "name": "2003-2004", 
+            "sessions": [
+                "2003-2004"
+            ]
+        }, 
+        {
+            "end_year": 2006, 
+            "start_year": 2005, 
+            "name": "2005-2006", 
+            "sessions": [
+                "2005-2006"
+            ]
+        }, 
+        {
+            "end_year": 2008, 
+            "start_year": 2007, 
+            "name": "2007-2008", 
+            "sessions": [
+                "2007-2008"
+            ]
+        }, 
+        {
+            "end_year": 2010, 
+            "start_year": 2009, 
+            "name": "2009-2010", 
+            "sessions": [
+                "2009-2010"
+            ]
+        }
+    ], 
+    "name": "Vermont", 
+    "upper_chamber_term": 2, 
+    "abbreviation": "vt", 
+    "upper_chamber_name": "Senate", 
+    "session_details": {
+        "2009-2010": {
+            "type": "primary"
+        }, 
+        "2005-2006": {
+            "type": "primary"
+        }, 
+        "1995-1996": {
+            "type": "primary"
+        }, 
+        "2007-2008": {
+            "type": "primary"
+        }, 
+        "1999-2000": {
+            "type": "primary"
+        }, 
+        "1991-1992": {
+            "type": "primary"
+        }, 
+        "2003-2004": {
+            "type": "primary"
+        }, 
+        "1987-1988": {
+            "type": "primary"
+        }, 
+        "1993-1994": {
+            "type": "primary"
+        }, 
+        "1989-1990": {
+            "type": "primary"
+        }, 
+        "2001-2002": {
+            "type": "primary"
+        }, 
+        "1997-1998": {
+            "type": "primary"
+        }
+    }, 
+    "legislature_name": "Vermont General Assembly", 
+    "lower_chamber_term": 2
+}

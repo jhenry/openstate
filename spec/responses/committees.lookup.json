@@ -1,0 +1,48 @@
+{
+    "members": [
+        {
+            "leg_id": null, 
+            "role": "member", 
+            "name": "Jean-Paul J. Morrell"
+        }, 
+        {
+            "leg_id": "LAL000153", 
+            "role": "member", 
+            "name": "Lydia P. Jackson"
+        }, 
+        {
+            "leg_id": "LAL000145", 
+            "role": "member", 
+            "name": "Dan  Claitor"
+        }, 
+        {
+            "leg_id": "LAL000146", 
+            "role": "member", 
+            "name": "A.G.  Crowe"
+        }, 
+        {
+            "leg_id": null, 
+            "role": "member", 
+            "name": "Elbert L. Guillory"
+        }, 
+        {
+            "leg_id": "LAL000166", 
+            "role": "member", 
+            "name": "Karen Carter Peterson"
+        }, 
+        {
+            "leg_id": "LAL000164", 
+            "role": "member", 
+            "name": "Edwin R. Murray"
+        }
+    ], 
+    "updated_at": "2010-10-14 08:20:02", 
+    "parent_id": null, 
+    "state": "la", 
+    "sources": [], 
+    "subcommittee": null, 
+    "committee": "Local & Municipal Affairs", 
+    "chamber": "upper", 
+    "id": "LAC000012"
+}
+

@@ -1,0 +1,161 @@
+{
+    "actions": [
+        {
+            "date": "2009-03-20 00:00:00", 
+            "action": "Committee bill read the first time and placed on Notice Calendar on 3/25/09", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-03-25 00:00:00", 
+            "action": "Referred to Committee on Ways and Means per Rule 35(a)", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Rep. Partridge of Windham spoke for the committee on Agriculture", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Rep. Winters of Williamstown reported for the committee on Ways and Means", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Read Second Time", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Proposal of Amendment of the Committee on Ways and Means agreed to", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Amendment as offered by Rep. Branagan of Georgia withdrawn", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Third Reading Ordered", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Rules suspended and bill placed in all remaining stages of passage as moved by Rep. Komline of Dorset", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Read Third time and Passed", 
+            "type": [
+                "bill:passed"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Rules suspended and bill messaged forthwith to the Senate as moved by Rep. Komline of Dorset", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "In Senate", 
+            "type": [
+                "other"
+            ], 
+            "actor": "lower"
+        }, 
+        {
+            "date": "2009-05-07 00:00:00", 
+            "action": "Read 1st time & referred to Committee on Rules", 
+            "type": [
+                "other"
+            ], 
+            "actor": "upper"
+        }, 
+        {
+            "date": "2010-01-05 00:00:00", 
+            "action": "Rules suspended & taken up for immediate consideration, on motion of Senator Shumlin", 
+            "type": [
+                "other"
+            ], 
+            "actor": "upper"
+        }, 
+        {
+            "date": "2010-01-05 00:00:00", 
+            "action": "Committed to the Committee on Agriculture on motion of Senator Shumlin", 
+            "type": [
+                "other"
+            ], 
+            "actor": "upper"
+        }
+    ], 
+    "sources": [
+        {
+            "url": "http://www.leg.state.vt.us/database/status/summary.cfm?Bill=H.0434&Session=2010", 
+            "retrieved": "2010-10-14 14:20:39"
+        }
+    ], 
+    "session": "2009-2010", 
+    "votes": [], 
+    "documents": [], 
+    "title": "AN ACT RELATING TO AGENCY OF AGRICULTURE, FOOD AND MARKETS REVENUES", 
+    "alternate_titles": [], 
+    "state": "vt", 
+    "type": [
+        "bill"
+    ], 
+    "sponsors": [
+        {
+            "chamber": "lower", 
+            "leg_id": null, 
+            "type": "sponsor", 
+            "name": "House Committee on Agriculture"
+        }
+    ], 
+    "updated_at": "2010-10-14 14:36:58", 
+    "versions": [
+        {
+            "url": "http://www.leg.state.vt.us/docs/2010/bills/Intro/H-434.pdf", 
+            "name": "As Introduced"
+        }, 
+        {
+            "url": "http://www.leg.state.vt.us/docs/2010/bills/House/H-434.pdf", 
+            "name": "As Passed the House"
+        }
+    ], 
+    "created_at": "2010-07-09 16:16:40", 
+    "chamber": "lower", 
+    "bill_id": "H.0434"
+}

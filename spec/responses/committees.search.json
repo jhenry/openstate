@@ -1,0 +1,167 @@
+[
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Education", 
+        "chamber": "upper", 
+        "id": "LAC000046", 
+        "votesmart_id": "10500"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Commerce, Consumer Protection, and International Affairs", 
+        "chamber": "upper", 
+        "id": "LAC000002", 
+        "votesmart_id": "4118"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Finance", 
+        "chamber": "upper", 
+        "id": "LAC000005", 
+        "votesmart_id": "10502"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Health & Welfare", 
+        "chamber": "upper", 
+        "id": "LAC000006"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Judiciary C", 
+        "chamber": "upper", 
+        "id": "LAC000010", 
+        "votesmart_id": "10507"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Local & Municipal Affairs", 
+        "chamber": "upper", 
+        "id": "LAC000012"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Environmental Quality", 
+        "chamber": "upper", 
+        "id": "LAC000004", 
+        "votesmart_id": "10501"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Judiciary A", 
+        "chamber": "upper", 
+        "id": "LAC000008", 
+        "votesmart_id": "10505"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Judiciary B", 
+        "chamber": "upper", 
+        "id": "LAC000009", 
+        "votesmart_id": "10506"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Labor & Industrial Relations", 
+        "chamber": "upper", 
+        "id": "LAC000011"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Natural Resources", 
+        "chamber": "upper", 
+        "id": "LAC000013", 
+        "votesmart_id": "10510"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Revenue & Fiscal Affairs", 
+        "chamber": "upper", 
+        "id": "LAC000015"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Senate & Governmental Affairs", 
+        "chamber": "upper", 
+        "id": "LAC000016"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Transportation, Highways & Public Works", 
+        "chamber": "upper", 
+        "id": "LAC000017"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Agriculture, Forestry, Aquaculture, and Rural Development", 
+        "chamber": "upper", 
+        "id": "LAC000045", 
+        "votesmart_id": "10498"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Insurance", 
+        "chamber": "upper", 
+        "id": "LAC000047", 
+        "votesmart_id": "10504"
+    }, 
+    {
+        "updated_at": "2010-10-14 08:20:02", 
+        "parent_id": null, 
+        "state": "la", 
+        "subcommittee": null, 
+        "committee": "Retirement", 
+        "chamber": "upper", 
+        "id": "LAC000048", 
+        "votesmart_id": "10511"
+    }
+]
+

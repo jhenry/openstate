@@ -1,0 +1,182 @@
+[
+    {
+        "title": "AN ACT RELATING TO LEGISLATIVE MEMBERS OF THE BOARD OF TRUSTEES OF THE UNIVERSITY OF VERMONT AND STATE AGRICULTURAL COLLEGE", 
+        "created_at": "2010-07-09 16:16:46", 
+        "updated_at": "2010-10-14 14:36:59", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0554"
+    }, 
+    {
+        "title": "AN ACT RELATING TO EXISTING AGRICULTURAL METHANE ELECTRIC GENERATION PLANTS", 
+        "created_at": "2010-07-09 16:16:47", 
+        "updated_at": "2010-10-14 14:36:59", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0566"
+    }, 
+    {
+        "title": "AN ACT RELATING TO A TUITION CREDIT FOR STUDENTS IN AGRICULTURAL PROGRAMS", 
+        "created_at": "2010-07-09 16:16:40", 
+        "updated_at": "2010-10-14 14:36:58", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0429"
+    }, 
+    {
+        "title": "AN ACT RELATING TO THE ADDITION OF THE SECRETARY OF AGRICULTURE, FOOD AND MARKETS TO THE BOARD OF TRUSTEES OF THE UNIVERSITY OF VERMONT AND STATE AGRICULTURAL COLLEGE", 
+        "created_at": "2010-07-09 16:16:28", 
+        "updated_at": "2010-10-14 14:36:57", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0193"
+    }, 
+    {
+        "title": "AN ACT RELATING TO AMENDING THE VERMONT AGRICULTURAL CREDIT PROGRAM TO INCLUDE FORESTRY, TIMBER HARVESTING, AND FOREST PRODUCTS MANUFACTURING ", 
+        "created_at": "2010-07-09 16:16:30", 
+        "updated_at": "2010-10-14 14:36:58", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0241"
+    }, 
+    {
+        "title": "AN ACT RELATING TO THE USE OF TRANSFER OF DEVELOPMENT RIGHTS FOR OFF-SITE MITIGATION OF PRIMARY AGRICULTURAL SOILS", 
+        "created_at": "2010-07-09 16:16:51", 
+        "updated_at": "2010-10-14 14:36:59", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0652"
+    }, 
+    {
+        "title": "AN ACT RELATING TO DIRECTING STATE AGENCIES AND INSTITUTIONS TO PROCURE VERMONT AGRICULTURAL PRODUCTS", 
+        "created_at": "2010-07-09 16:16:37", 
+        "updated_at": "2010-10-14 14:36:58", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0376"
+    }, 
+    {
+        "title": "AN ACT RELATING TO AGENCY OF AGRICULTURE, FOOD AND MARKETS REVENUES", 
+        "created_at": "2010-07-09 16:16:40", 
+        "updated_at": "2010-10-14 14:36:58", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0434"
+    }, 
+    {
+        "title": "AN ACT RELATING TO LOCAL ZONING BYLAWS AND AGRICULTURAL USES", 
+        "created_at": "2010-07-09 16:16:49", 
+        "updated_at": "2010-10-14 14:36:59", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0604"
+    }, 
+    {
+        "title": "AN ACT RELATING TO ESTABLISHING THE VERMONT AGRICULTURAL INNOVATION AUTHORITY", 
+        "created_at": "2010-07-09 16:16:57", 
+        "updated_at": "2010-10-14 14:36:59", 
+        "chamber": "lower", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "H.0765"
+    }, 
+    {
+        "title": "AN ACT RELATING TO PUBLIC HEALTH AND PREVENTIVE HEALTH SERVICES FOR AGRICULTURAL AND FOOD SERVICE WORKERS", 
+        "created_at": "2010-07-09 16:16:09", 
+        "updated_at": "2010-10-14 14:36:56", 
+        "chamber": "upper", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "S.0116"
+    }, 
+    {
+        "title": "AN ACT RELATING TO AGRICULTURAL FUNDING EDUCATION AND OUTREACH", 
+        "created_at": "2010-07-09 16:16:10", 
+        "updated_at": "2010-10-14 14:36:56", 
+        "chamber": "upper", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "S.0132"
+    }, 
+    {
+        "title": "AN ACT RELATING TO THE VERMONT AGRICULTURAL ADVISORY BOARD", 
+        "created_at": "2010-07-09 16:16:13", 
+        "updated_at": "2010-10-14 14:36:56", 
+        "chamber": "upper", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "S.0208"
+    }, 
+    {
+        "title": "AN ACT RELATING TO THE USE OF TRANSFER OF DEVELOPMENT RIGHTS FOR OFF-SITE MITIGATION OF PRIMARY AGRICULTURAL SOILS", 
+        "created_at": "2010-07-09 16:16:14", 
+        "updated_at": "2010-10-14 14:36:56", 
+        "chamber": "upper", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "S.0233"
+    }, 
+    {
+        "title": "AN ACT RELATING TO AGRICULTURAL DEVELOPMENT, INCLUDING AGENCY POSITIONS AND CREATION OF DEVELOPMENT BOARD; ESTABLISHMENT OF LIVESTOCK CARE STANDARDS; OPERATION OF COMMERCIAL SLAUGHTER FACILITIES; ANIMAL RESCUE ORGANIZATIONS; AND HEALTH CERTIFICATES FOR IMPORTATION OF CERTAIN ANIMALS", 
+        "created_at": "2010-07-09 16:16:18", 
+        "updated_at": "2010-10-14 14:36:57", 
+        "chamber": "upper", 
+        "state": "vt", 
+        "session": "2009-2010", 
+        "type": [
+            "bill"
+        ], 
+        "bill_id": "S.0295"
+    }
+]

@@ -1,0 +1,36 @@
+{
+    "last_name": "Zuckerman", 
+    "middle_name": "E", 
+    "district": "Chittenden-3-4", 
+    "roles": [
+        {
+            "term": "2009-2010", 
+            "end_date": null, 
+            "district": "Chittenden-3-4", 
+            "chamber": "lower", 
+            "state": "vt", 
+            "party": "Progressive", 
+            "type": "member", 
+            "start_date": null
+        }
+    ], 
+    "+email": "dzuckerman@leg.state.vt.us", 
+    "created_at": "2010-08-30 15:13:22", 
+    "first_name": "David", 
+    "updated_at": "2010-10-14 14:36:55", 
+    "sources": [
+        {
+            "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+            "retrieved": "2010-10-14 13:51:46"
+        }
+    ], 
+    "state": "vt", 
+    "nimsp_candidate_id": 110992, 
+    "full_name": "David E Zuckerman", 
+    "chamber": "lower", 
+    "leg_id": "VTL000540", 
+    "party": "Progressive", 
+    "active": true, 
+    "id": "VTL000540"
+}
+

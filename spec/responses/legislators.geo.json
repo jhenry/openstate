@@ -1,0 +1,569 @@
+[
+    {
+        "last_name": "Weston", 
+        "middle_name": "", 
+        "district": "Chittenden-3-3", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden-3-3", 
+                "chamber": "lower", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Rachel", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:39"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110978, 
+        "official_email": "rweston@leg.state.vt.us", 
+        "votesmart_id": "65588", 
+        "full_name": "Weston, Rachel", 
+        "chamber": "lower", 
+        "leg_id": "VTL000172", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000172"
+    }, 
+    {
+        "last_name": "Lorber", 
+        "middle_name": "P", 
+        "district": "Chittenden-3-3", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden-3-3", 
+                "chamber": "lower", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Jason P.", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:38"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110842, 
+        "official_email": "jlorber@leg.state.vt.us", 
+        "votesmart_id": "51184", 
+        "full_name": "Lorber, Jason P. P.", 
+        "chamber": "lower", 
+        "leg_id": "VTL000109", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000109"
+    }, 
+    {
+        "last_name": "Lorber", 
+        "middle_name": "P", 
+        "district": "Chittenden-3-3", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden-3-3", 
+                "chamber": "lower", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "jlorber@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Jason P.", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:45"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110842, 
+        "full_name": "Jason P. P Lorber", 
+        "chamber": "lower", 
+        "leg_id": "VTL000469", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000469"
+    }, 
+    {
+        "last_name": "Weston", 
+        "middle_name": "", 
+        "district": "Chittenden-3-3", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden-3-3", 
+                "chamber": "lower", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "rweston@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Rachel", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:46"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110978, 
+        "full_name": "Rachel Weston", 
+        "chamber": "lower", 
+        "leg_id": "VTL000532", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000532"
+    }, 
+    {
+        "last_name": "Snelling", 
+        "middle_name": "B", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Republican", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Diane", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:36"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110944, 
+        "official_email": "dsnelling@leg.state.vt.us", 
+        "votesmart_id": "51034", 
+        "full_name": "Snelling, Diane B.", 
+        "chamber": "upper", 
+        "leg_id": "VTL000028", 
+        "party": "Republican", 
+        "active": true, 
+        "id": "VTL000028"
+    }, 
+    {
+        "last_name": "Lyons", 
+        "middle_name": "V", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Virginia \"Ginny\"", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:36"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": null, 
+        "official_email": "vlyons@leg.state.vt.us", 
+        "votesmart_id": "26024", 
+        "full_name": "Lyons, Virginia \"Ginny\" V.", 
+        "chamber": "upper", 
+        "leg_id": "VTL000017", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000017"
+    }, 
+    {
+        "last_name": "Racine", 
+        "middle_name": "A", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Douglas A.", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:36"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": null, 
+        "official_email": "dracine@leg.state.vt.us", 
+        "votesmart_id": "1708", 
+        "full_name": "Racine, Douglas A. A.", 
+        "chamber": "upper", 
+        "leg_id": "VTL000024", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000024"
+    }, 
+    {
+        "last_name": "Ashe", 
+        "middle_name": "R", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Progressive", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Tim", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:36"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110679, 
+        "official_email": "tashe@leg.state.vt.us", 
+        "votesmart_id": "80645", 
+        "full_name": "Ashe, Tim R.", 
+        "chamber": "upper", 
+        "leg_id": "VTL000001", 
+        "party": "Progressive", 
+        "active": true, 
+        "id": "VTL000001"
+    }, 
+    {
+        "last_name": "Miller", 
+        "middle_name": "", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Hinda", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:36"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110873, 
+        "official_email": "hmiller@leg.state.vt.us", 
+        "votesmart_id": "51048", 
+        "full_name": "Miller, Hinda", 
+        "chamber": "upper", 
+        "leg_id": "VTL000021", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000021"
+    }, 
+    {
+        "last_name": "Flanagan", 
+        "middle_name": "S", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "created_at": "2010-07-09 16:16:03", 
+        "first_name": "Ed", 
+        "updated_at": "2010-07-29 01:55:56", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-07-29 01:10:36"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110761, 
+        "official_email": "eflanagan@leg.state.vt.us", 
+        "votesmart_id": "56011", 
+        "full_name": "Flanagan, Ed S.", 
+        "chamber": "upper", 
+        "leg_id": "VTL000010", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000010"
+    }, 
+    {
+        "last_name": "Lyons", 
+        "middle_name": "V", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "vlyons@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Virginia \"Ginny\"", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:44"
+            }
+        ], 
+        "state": "vt", 
+        "full_name": "Virginia \"Ginny\" V Lyons", 
+        "chamber": "upper", 
+        "leg_id": "VTL000377", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000377"
+    }, 
+    {
+        "last_name": "Racine", 
+        "middle_name": "A", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "dracine@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Douglas A.", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:44"
+            }
+        ], 
+        "state": "vt", 
+        "full_name": "Douglas A. A Racine", 
+        "chamber": "upper", 
+        "leg_id": "VTL000384", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000384"
+    }, 
+    {
+        "last_name": "Ashe", 
+        "middle_name": "R", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Progressive", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "tashe@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Tim", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:44"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110679, 
+        "full_name": "Tim R Ashe", 
+        "chamber": "upper", 
+        "leg_id": "VTL000361", 
+        "party": "Progressive", 
+        "active": true, 
+        "id": "VTL000361"
+    }, 
+    {
+        "last_name": "Flanagan", 
+        "middle_name": "S", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "eflanagan@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Ed", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:44"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110761, 
+        "full_name": "Ed S Flanagan", 
+        "chamber": "upper", 
+        "leg_id": "VTL000370", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000370"
+    }, 
+    {
+        "last_name": "Miller", 
+        "middle_name": "", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Democratic", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "hmiller@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Hinda", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:44"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110873, 
+        "full_name": "Hinda Miller", 
+        "chamber": "upper", 
+        "leg_id": "VTL000381", 
+        "party": "Democratic", 
+        "active": true, 
+        "id": "VTL000381"
+    }, 
+    {
+        "last_name": "Snelling", 
+        "middle_name": "B", 
+        "district": "Chittenden", 
+        "roles": [
+            {
+                "term": "2009-2010", 
+                "end_date": null, 
+                "district": "Chittenden", 
+                "chamber": "upper", 
+                "state": "vt", 
+                "party": "Republican", 
+                "type": "member", 
+                "start_date": null
+            }
+        ], 
+        "+email": "dsnelling@leg.state.vt.us", 
+        "created_at": "2010-08-30 15:13:22", 
+        "first_name": "Diane", 
+        "updated_at": "2010-10-14 14:36:55", 
+        "sources": [
+            {
+                "url": "http://www.leg.state.vt.us/legdir/memberdata.cfm/memberdata.doc?FileType=W", 
+                "retrieved": "2010-10-14 13:51:44"
+            }
+        ], 
+        "state": "vt", 
+        "nimsp_candidate_id": 110944, 
+        "full_name": "Diane B Snelling", 
+        "chamber": "upper", 
+        "leg_id": "VTL000388", 
+        "party": "Republican", 
+        "active": true, 
+        "id": "VTL000388"
+    }
+]
+
