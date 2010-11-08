@@ -7,7 +7,7 @@ describe StateMetadata do
     @state = StateMetadata.new(@options)
 
     @stub_url = "#{@uri_path}/metadata/#{@state_abbreviation}/?apikey=#{@api_key}" 
-    stub_request(:get, @stub_url).to_return(:body => File.new('responses/state.metadata.json'))
+    stub_request(:get, @stub_url).to_return(:body => File.new(@responses_path + '/state.metadata.json'))
 
     @metadata = @state.fetch_metadata(@state_abbreviation)
   end

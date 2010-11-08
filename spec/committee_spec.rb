@@ -2,8 +2,6 @@ require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 
 describe Committee do
 
-  it "fails if it receives no config options on init"
-
   it "finds a list of committees based on a query" do
     @committee = Committee.new(@options)
     @query = "state=la&chamber=upper"
@@ -18,7 +16,6 @@ describe Committee do
 
   end
 
-  it "raises an error if no committees are found"
 
   it "looks up a committee using it's Open State Project ID" do
     @committee = Committee.new(@options)
@@ -32,4 +29,7 @@ describe Committee do
     WebMock.should have_requested(:get, @stub_url)
     @result["committee"] == "Local & Municipal Affairs"
   end
+
+  it "raises an error if no committees are found"
+
 end

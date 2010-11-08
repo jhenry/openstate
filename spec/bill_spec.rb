@@ -19,9 +19,9 @@ describe Bill do
   end
 
   it "looks up a bill using state, session, and id" do
-    session = "2009-2010"
-    id = "H.0434"
-    @stub_url = "#{@uri_path}/bills/#{@state_abbreviation}/#{session}/#{id}?apikey=#{@api_key}"
+    @session = "2009-2010"
+    @bill_id = "H.0434"
+    @stub_url = "#{@uri_path}/bills/#{@state_abbreviation}/#{@session}/#{@bill_id}?apikey=#{@api_key}"
     stub_request(:get, @stub_url).to_return(:body => File.new(@responses_path + '/bills.vt.2009-2010.h0434.json'))
 
     @the_bill = @bill.lookup(@state_abbreviation, "2009-2010", "H.0434")
@@ -30,6 +30,17 @@ describe Bill do
     @the_bill["title"].should == "AN ACT RELATING TO AGENCY OF AGRICULTURE, FOOD AND MARKETS REVENUES"
   end
 
-  it "looks up a bill using the chamber"
+  it "looks up a bill using state, session, id and chamber" do
+    @session = "2009-2010"
+    @bill_id = "H.0434"
+    @chamber = "lower"
+    @stub_url = "#{@uri_path}/bills/#{@state_abbreviation}/#{@session}/#{@chamber}/#{@bill_id}?apikey=#{@api_key}"
+    stub_request(:get, @stub_url).to_return(:body => File.new(@responses_path + '/bills.vt.2009-2010.h0434.json'))
+
+    @the_bill = @bill.lookup(@state_abbreviation, "2009-2010", "H.0434", "lower")
+
+    WebMock.should have_requested(:get, @stub_url)
+    @the_bill["title"].should == "AN ACT RELATING TO AGENCY OF AGRICULTURE, FOOD AND MARKETS REVENUES"
+  end
 
 end

@@ -13,8 +13,8 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "openstate"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{A basic Ruby library for interacting with the Open State Project API.}
+  gem.description = %Q{The Open State Project provides data on state legislative activities, including bill summaries, votes, sponsorships and state legislator information.  This library provides methods for retrieving that data.}
   gem.email = "justin.henry@gmail.com"
   gem.homepage = "http://github.com/jhenry/openstate"
   gem.authors = ["Justin Henry"]
